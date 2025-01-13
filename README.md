@@ -1,2 +1,2 @@
-# releases
-Files used in the HyperionSmasher Installer.
+# HyperionSmasher files
+Installer files & more.
