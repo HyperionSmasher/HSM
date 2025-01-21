@@ -1,2 +1,2 @@
-# HyperionSmasher files
-Installer files & more.
+# HyperionSmasher (HSM)
+A ROBLOX Lua Utility.
