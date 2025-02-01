@@ -1,4 +1,4 @@
-# RoCore
+# RoCore 🚀
 A level 8, Post-Hyperion External Lua Cheat for ROBLOX.
 > [!NOTE]  
 > This project is still being developed, and is set to be released Feburary 10-12th 2025.
